@@ -33,16 +33,12 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=prateekt91&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-</p>
-
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=prateekt91&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
+</p> -->
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prateekt91&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://readme-stats-fast.vercel.app/api/top-langs/?username=prateekt91&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
