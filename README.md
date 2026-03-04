@@ -1,7 +1,7 @@
 # Hi there, I'm Prateek 👋
 
 [![GitHub followers](https://img.shields.io/github/followers/prateekt91?label=Follow&style=social)](https://github.com/prateekt91)
-[![Profile Views](https://komarev.com/ghpvc/?username=prateekt91&color=blueviolet)](https://github.com/prateekt91)
+[![Profile Views](https://komarev.com/ghpvc/?username=prateekt91&color=red)](https://github.com/prateekt91)
 
 ## About Me
 
